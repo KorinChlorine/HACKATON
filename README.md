@@ -7,3 +7,5 @@ run the command below assuming you already have python installed
 pip install selenium beautifulsoup4 pillow
 
 then you can just run python website.py to generate jpgs of news and anouncements
+
+the python program assumes you have firefox installed
